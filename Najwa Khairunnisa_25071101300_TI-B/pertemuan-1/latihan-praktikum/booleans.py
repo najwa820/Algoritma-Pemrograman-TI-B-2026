@@ -16,7 +16,7 @@ else:
 # Most Values are True
 print (bool ("Hello"))      # Hasilnya True karna gaada pembandingnya
 print (bool (123))
-print (bool (["Mangga", "Jeruk", "Apel"]))\
+print (bool (["Mangga", "Jeruk", "Apel"]))
 
 # Some values are False
 print (bool (False))
